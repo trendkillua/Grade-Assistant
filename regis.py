@@ -2,7 +2,7 @@ from openpyxl import *
 from tkinter import *
   
 # globally declare wb and sheet variable 
-  
+  #yarrağımın başı
 # opening the existing excel file 
 wb = load_workbook('C:\\Users\\Administrator\\Desktop\\excel.xlsx')
   
